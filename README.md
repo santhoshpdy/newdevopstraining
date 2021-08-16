@@ -1,2 +1,2 @@
-# newdevopstraining
-This is to practice git commands
+# devopsclass
+This repository created to learn Git commands. 

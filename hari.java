@@ -1,11 +1,7 @@
 asdf
 asd
 fa
-ssdfasd
-f
-asd
-f
-asdfasdfdf
+sdf
 a
 sd
 faf
